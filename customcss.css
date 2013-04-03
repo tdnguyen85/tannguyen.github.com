@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+<style>
+	 .textbox {
+	 	display: inline;
+	 	float: left;
+	 	min-width: 400px;
+	 	min-height: 300px;
+	 	background-color: #F0FFFF;
+	 	text-align: left;
+	
+		margin-top: 250px;
+		margin-left: 75px;
+		padding: 10px;
+
+
+	}
+
+	body { 
+		background-image: url("hawaii_night.jpg");
+		background-repeat: no-repeat;
+		background-position: center top;
+	}
+
+	.profile {
+		display: inline;
+		position: relative;
+		float: right;
+		margin-right: 100px;
+		margin-top: 10px;
+	}
+
+	h1 {
+		font-size: 70px;
+		color: #FFFFFF;
+		font-family: 'Denk One', sans-serif;
+		text-align: center;
+		margin-top: 60px;
+
+	}
+
+	ul {
+		display: inline;
+		color: #FFFFFF;
+		
+		font-size: 15px;
+		margin-top: 20px;
+		margin-bottom: 20px;
+		margin-left: 20px;
+	}
+
+	.field {
+		display: inline;
+		background-color: #E6E6FA;
+		opacity: 0.6;
+	}
+
+	.icons {
+		display: inline;
+		margin-top: 20px;
+		margin-left: 40px;
+	}
+
+	
+</style>
